@@ -14,7 +14,7 @@ Hi, I’m Guru Wangchuk 👋<br>I’m a dedicated and hardworking BCA student at
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=guruwangchuk7&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
+https://github.com/users/guruwangchuk7/achievements/quickdraw
 ---
 [![](https://visitcount.itsvg.in/api?id=guruwangchuk7&icon=0&color=0)](https://visitcount.itsvg.in)
 
