@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Guru Wangchuk 👋<br>I’m a dedicated and hardworking BCA student at Chandigarh University (Graduating July 2026), passionate about full-stack web development, building responsive websites, and creating clean user experiences.<br><br>🔭 I’m currently working on Saidpiece website development<br>👯 I’m looking to collaborate on full-stack web projects and UI-based applications<br>🤝 I’m looking for help with improving my backend + deployment skills<br>🌱 I’m currently learning advanced React, APIs, and full-stack development<br>💬 Ask me about web development, UI/UX, and student projects<br>⚡ Fun fact: I enjoy building visually engaging websites with smooth navigation and clean UI
+Full Stack Developer experienced in building scalable web applications, AI-driven platforms, and blockchain-based systems. Proficient in JavaScript, React, Next.js, Node.js, and modern cloud technologies, with hands-on experience delivering real-time analytics, responsive interfaces, and production-ready software solutions. Strong problem-solving ability with a focus on performance, reliability, and user-centered design.
 
 
 ## 🌐 Socials:
